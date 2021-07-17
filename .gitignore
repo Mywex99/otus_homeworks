@@ -139,3 +139,4 @@ cython_debug/
 
 # IDE staff
 .idea
+.DS_Store
