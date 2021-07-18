@@ -1,10 +1,10 @@
 class LowFuelError(BaseException):
-    print("Low Fuel!")
+    pass
 
 
 class NotEnoughFuel(BaseException):
-    print("Not Enough Fuel!")
+    pass
 
 
 class CargoOverload(BaseException):
-    print("Overload!")
+    pass
